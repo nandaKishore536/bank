@@ -1,0 +1,54 @@
+.home_bg {
+  background-color: #152850;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.home_sub {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 4px;
+  margin-top: 20px;
+}
+
+.home_h1 {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 50px;
+  font-weight: 500;
+}
+
+.card {
+  width: 500px;
+}
+
+.header_bg {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+}
+
+.web_logo {
+  width: 120px;
+}
+
+.logout_btn {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  padding: 5px 8px 5px 8px;
+  border-radius: 4px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 20px;
+  outline: none;
+  cursor: pointer;
+}
+
+.link {
+  text-decoration: none;
+}
